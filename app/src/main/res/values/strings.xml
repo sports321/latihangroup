@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">My Application!</string>
+    <string name="button1">Product Nike</string>
+    <string name="button2">Product sneackers</string>
+    <string name="content_text">Nike, Inc. adalah produsen sepatu, pakaian dan alat-alat olahraga
+        Amerika Serikat. … Perusahaan ini didirikan pada tanggal 25 Januari 1964 sebagai Blue Ribbon
+        Sports oleh Bill Bowerman dan Phil Knight. Nama Nike resmi dipakai sejak 30 Mei 1978. Nama Nike
+        sendiri berarti dewi kemenangan Yunani.</string>
+
+    <string name="content_specs_display">Kondisi: Baru\n
+            Berat: 180 Gram\n
+            Kategori: Kaos Dry Fit Wanita\n
+            Etalase: DRY FIT LENGAN PENDEK\n</string>
+    <string name="content_specs_size">	Size S Dada 44 cm Panjang 62 cm\n
+        	Size M Dada 46 cm Panjang 64 cm\n
+        	Size L Dada 48 cm Panjang 66 cm\n
+        	Size XL Dada 50 cm Panjang 68 cm\n
+        	Size XXL Dada 52 cm Panjang 70 cm\n</string>
+    <string name="content_specs_battery">
+        	Baju Olahraga Lengan Pendek\n
+        	Design Sporty (Cutting/Potongan Ladies)\n
+        	Kerah Leher Bulat\n
+        	Detail Logo Di Dada Reflective\n
+        	Bahan : 51% Polyester / 49% Recycled Polyester Mock Eyelet\n
+        	Jahitan Rapi\n
+        	Ada 10 Pilhan Warna : H.Stabilo, Ungu, Magenta, Merah, Turkis, Maroon, Army, Oranye, Putih, Navy \n</string>
+    <string name="stock">Stock hanya 50 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Detail Product</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Mahkota Sport</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">Rp. 150000K</string>
+    <string name="dummy_photos" translatable="false">6 photos</string>
+    <string name="todo">TODO</string>
+
+    <string name="content_text1">FOOTWEAR IMPERIOR</string>
+
+    <string name="content_specs_display1">Kondisi: Baru\n
+            Berat: 500 Gram\n
+            Kategori: Sneakers Pria\n
+            Etalase: Kekinian\n
+            194416902/3913985260\n
+    </string>
+
+    <string name="content_specs_size1">
+            37: 22,5cm\n
+            38: 23cm\n
+            39: 23,5cm\n
+            40: 24cm\n
+            </string>
+    <string name="content_specs_battery1">SEPATU PANTOFEL BAHAN KULIT UKURAN BESAR UNTUK PRIA/BISNIS DENGAN</string>
+    <string name="stock1">Stock hanya 10 buah</string>
+    <string name="specification1">Spesifikasi</string>
+    <string name="display1">Display</string>
+    <string name="size1">Size</string>
+    <string name="battery1">Detail Product</string>
+    <string name="seller1">Dijual oleh</string>
+    <string name="my_name1">Mahkota Sport</string>
+    <string name="buy1">Beli</string>
+    <string name="dummy_value1">Rp. 450000K</string>
+    <string name="dummy_photos1">6 photos</string>
+</resources>
